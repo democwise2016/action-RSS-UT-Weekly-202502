@@ -1,0 +1,253 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[IT咖啡馆[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>IT咖啡馆[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[IT咖啡馆[YT+]]]></copyright>
+    <itunes:author><![CDATA[IT咖啡馆[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[IT咖啡馆[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[「Github一周热点71期」互动桌面宠物、K8s的AI助手、WEB 3D引擎、云原生安全扫描工具和为AI agent 设计的弹性云]]></title>
+      <link>https://www.youtube.com/watch?v=MUmwpTvOfd4</link>
+      <itunes:title><![CDATA[「Github一周热点71期」互动桌面宠物、K8s的AI助手、WEB 3D引擎、云原生安全扫描工具和为AI agent 设计的弹性云]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/MUmwpTvOfd4/hqdefault.jpg"/>
+      <pubDate>2025-05-11T03:00:22.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[「Github一周热点70期」原生1bit模型，无限长度影片生成模型，程序员在家做饭方法指南、浏览器中运行VSCode和命令行的视频下载器]]></title>
+      <link>https://www.youtube.com/watch?v=jGdlBdPAYl8</link>
+      <itunes:title><![CDATA[「Github一周热点70期」原生1bit模型，无限长度影片生成模型，程序员在家做饭方法指南、浏览器中运行VSCode和命令行的视频下载器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/jGdlBdPAYl8/hqdefault.jpg"/>
+      <pubDate>2025-04-26T09:34:25.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[「Github一周热点69期」轻量编程智能体，前端动画库，音视频翻译工具，可穿戴AI设备和构建终端风格的网站]]></title>
+      <link>https://www.youtube.com/watch?v=OTGShtbX1eU</link>
+      <itunes:title><![CDATA[「Github一周热点69期」轻量编程智能体，前端动画库，音视频翻译工具，可穿戴AI设备和构建终端风格的网站]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/OTGShtbX1eU/hqdefault.jpg"/>
+      <pubDate>2025-04-20T04:15:13.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[「Github一周热点68期」A2A协议、无代码Web爬虫、网盘聚合工具、cursor无限续杯和 MCP 开发SDK]]></title>
+      <link>https://www.youtube.com/watch?v=V7gFlTzJDts</link>
+      <itunes:title><![CDATA[「Github一周热点68期」A2A协议、无代码Web爬虫、网盘聚合工具、cursor无限续杯和 MCP 开发SDK]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/V7gFlTzJDts/hqdefault.jpg"/>
+      <pubDate>2025-04-15T02:45:31.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[「Github一周热点67期」AI agent入门课，全网热点聚合，生成SVG的多模态模型， AI量化投资平台和GitHub 架构图生成器]]></title>
+      <link>https://www.youtube.com/watch?v=RKEo7X9jo0c</link>
+      <itunes:title><![CDATA[「Github一周热点67期」AI agent入门课，全网热点聚合，生成SVG的多模态模型， AI量化投资平台和GitHub 架构图生成器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/RKEo7X9jo0c/hqdefault.jpg"/>
+      <pubDate>2025-04-03T05:28:44.000Z</pubDate>
+    </item></channel>
+</rss>
