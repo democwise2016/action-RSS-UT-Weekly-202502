@@ -86,9 +86,9 @@ jobs:
       #   run: |
       #     rm -rf ./cache/node-cache-sqlite* || true
 
-      # - name: Clean Cache node-cache.sqlite CaptionDownloader
-      #   run: |
-      #     rm -rf ./cache/node-cache-sqlite_CaptionDownloader.sqlite || true
+      - name: Clean Cache node-cache.sqlite CaptionDownloader
+        run: |
+          rm -rf ./cache/node-cache-sqlite_CaptionDownloader.sqlite || true
 
       # - name: Clean Object Cache node-cache.sqlite
       #   run: |
