@@ -89,14 +89,13 @@ let feedList = [
 if (CONFIG.debug) {
   feedList = [
     {
-      title: '志祺七七 X 圖文不符',
-      feedID: 'shasha77',
-      homepageURL: 'https://www.youtube.com/channel/UCiWXd0nmBjlKROwzMyPV-Nw',
+      title: 'JoeMultimedia 教 AI繪圖',
+      feedID: 'JoeMultimedia',
+      homepageURL: 'https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ',
       itemFilters: [
         ItemFiltersPreset.between3minTo30Min,
-        (item) => { return (item.title.endsWith('｜志祺七七')) }
-      ], // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-      maxItems: 3
+        (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
+      ]
     },
   ]
 }
