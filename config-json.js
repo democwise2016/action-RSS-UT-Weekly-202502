@@ -11,7 +11,7 @@ let CONFIG = {
   newArrialMax: 5,
   maxDownloadItems: 100,
   maxExcutionMinutes: 25,
-  maxSameTime: 3,
+  maxSameTime: 10,
 
   ENABLE_UT: true,
   debug: false,
