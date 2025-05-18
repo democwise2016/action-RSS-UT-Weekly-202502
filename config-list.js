@@ -109,6 +109,34 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
+  {
+    title: '斐姨所思【阿姨想知道】',
+    feedID: 'fanamericantime-interview',
+    homepageURL: 'https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw',
+    feedURL: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC2VKL-DkRvXtWkfjMzkYvmw',
+    itemFilters: [
+      ItemFiltersPreset.between10minTo60Min,
+      (item) => { return (item.title.indexOf('斐姨所思【阿姨想知道】') > -1) },
+    ],
+    options: {
+      maxItems: 3
+    }
+  },
+  {
+    title: '斐姨所思【姨帶姨錄】',
+    feedID: 'fanamericantime-talk',
+    homepageURL: 'https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw',
+    feedURL: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC2VKL-DkRvXtWkfjMzkYvmw',
+    itemFilters: [
+      ItemFiltersPreset.between10minTo60Min,
+      (item) => { return (item.title.indexOf('【姨帶姨錄】') > -1) },
+    ],
+    options: {
+      maxItems: 3
+    }
+  },
+
+  // =========== 以上 15 個，滿了！ ===============
 ]
 
 // 
