@@ -37,6 +37,8 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
+
+  // =========== 以上 5 個 ===============
   
   {
     title: '雀可美特',
@@ -80,10 +82,21 @@ let feedList = [
       (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
     ]
   },
-   {
+
+  // =========== 以上 10 個 ===============
+  
+  {
     title: 'Codegrid做HTML5',
     feedID: 'codegrid',
     homepageURL: 'https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+  },
+  {
+    title: '我是RT 聊 ACG',
+    feedID: 'RTisme',
+    homepageURL: 'https://www.youtube.com/channel/UCcG2HsNjnAbWOT6E1DRxjGA',
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
