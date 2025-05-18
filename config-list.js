@@ -101,6 +101,14 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
+  {
+    title: '獅心瘋 聊 復古遊戲',
+    feedID: 'czyleo',
+    homepageURL: 'https://www.youtube.com/channel/UCM1oqKXwENQ8dxOJa8BkmOQ',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+  },
 ]
 
 // 
