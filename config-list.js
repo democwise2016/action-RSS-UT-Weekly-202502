@@ -80,6 +80,14 @@ let feedList = [
       (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
     ]
   },
+   {
+    title: 'Codegrid做HTML5',
+    feedID: 'codegrid',
+    homepageURL: 'https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+  },
 ]
 
 // 
