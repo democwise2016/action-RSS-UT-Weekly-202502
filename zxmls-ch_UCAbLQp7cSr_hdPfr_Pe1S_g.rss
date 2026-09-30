@@ -30,6 +30,38 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/EbJfZ0Jdt0kHWKe_WilaY9ZBlWvbRtFjo9An7uflJEENifpFEoQEf55SjQK8fB4cLxWi7ofTGg=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[不用刷机！无需Root！在安卓设备上运行飞牛FnOS ARM版！]]></title>
+      <link>https://www.youtube.com/watch?v=50aZPKYlVE8</link>
+      <itunes:title><![CDATA[不用刷机！无需Root！在安卓设备上运行飞牛FnOS ARM版！]]></itunes:title>
+      <itunes:author><![CDATA[在下莫老师]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/50aZPKYlVE8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何完全<strong>免Root、免刷機</strong>，直接在安卓手機或平板上體驗飛牛FnOS ARM版系統。</li><li>詳細掌握<strong>Limbo虛擬機</strong>的完整參數配置，包含CPU、記憶體、硬碟掛載以及通訊埠轉發技巧。</li><li>真實評測純軟體模擬下的NAS效能表現與後台保活限制，評估老舊設備廢物利用的實際可行性。</li></ul><hr /><h1>摘要</h1><h2>免刷機！在安卓設備實現飛牛FnOS初體驗</h2><p>作者展示了如何在不需取得Root權限也不需刷機的情況下，僅憑一台安卓設備就能運行<strong>飛牛FnOS ARM版</strong>。市面上多數教學是透過x86模擬器運作，而作者採用<strong>Limbo ARM虛擬機</strong>運行原生ARM版系統，成為全網少見的嘗試。作者為觀眾準備了預先安裝完成的<strong>虛擬磁碟映像檔</strong>與UEFI引導固件，讓使用者免去從ISO映像檔從頭安裝的繁瑣流程，只需準備手機或平板、Limbo ARM應用程式及相關檔案即可開始操作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_99.jpg" /></p><h2>Limbo虛擬機設定與核心參數調整</h2><p>在開始佈署時，作者建議在手機內部儲存建立「臨時文件」資料夾以存放各項檔案，並依序安裝Limbo ARM軟體與導入<strong>UEFI固件</strong>。隨後建立新虛擬機，將架構指定為vert並選擇<strong>Cortex-A57</strong>處理器型號，核心數與記憶體則依設備硬體配置調整，同時勾選<strong>MTTCG加速</strong>。硬碟部分依序掛載預裝好系統的硬碟A與空白數據盤硬碟B，並將引導設為硬碟啟動；為了解決虛擬機無法直接取得實體IP的問題，作者特別示範將虛擬機的<strong>5666與5667端口轉發</strong>至手機本機，確保局域網設備能夠順利訪問管理頁面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_289.jpg" /></p><h2>開機連線、效能實測與背景運行限制</h2><p>虛擬機啟動後，需等待數分鐘讓系統完成儲存池校驗與開機程序，隨後在同局域網的電腦瀏覽器輸入<strong>手機IP加上5666端口</strong>即可登入飛牛後台。作者實測基礎檔案傳輸速度約為每秒15MB，輕量同步功能尚可應付，但由於採用<strong>純軟體模擬</strong>且缺乏KVM硬體虛擬化加速，整體效能較為低落，難以負荷Docker或影音相簿等高負載應用。此外，不同品牌手機的<strong>後台省電與殺進程機制</strong>可能導致螢幕鎖定後斷網，因此該方案實用性有限，更適合作為老舊設備技術折騰與功能嘗鮮的趣味體驗。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><p>本期编号：EP321</p><p></p><p>莫老师的附件表（快捷键Crtl+F搜索视频标题）：</p><p></p><p>中国：在下莫老师.com</p><p>海外：zxmls.lol</p><p></p><p>----------------------------------------------------</p><p></p><p>You can click here to download the files</p><p></p><p>在下莫老师.com</p><p>zxmls.lol</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/50aZPKYlVE8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何完全<strong>免Root、免刷機</strong>，直接在安卓手機或平板上體驗飛牛FnOS ARM版系統。</li><li>詳細掌握<strong>Limbo虛擬機</strong>的完整參數配置，包含CPU、記憶體、硬碟掛載以及通訊埠轉發技巧。</li><li>真實評測純軟體模擬下的NAS效能表現與後台保活限制，評估老舊設備廢物利用的實際可行性。</li></ul><hr /><h1>摘要</h1><h2>免刷機！在安卓設備實現飛牛FnOS初體驗</h2><p>作者展示了如何在不需取得Root權限也不需刷機的情況下，僅憑一台安卓設備就能運行<strong>飛牛FnOS ARM版</strong>。市面上多數教學是透過x86模擬器運作，而作者採用<strong>Limbo ARM虛擬機</strong>運行原生ARM版系統，成為全網少見的嘗試。作者為觀眾準備了預先安裝完成的<strong>虛擬磁碟映像檔</strong>與UEFI引導固件，讓使用者免去從ISO映像檔從頭安裝的繁瑣流程，只需準備手機或平板、Limbo ARM應用程式及相關檔案即可開始操作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_99.jpg" /></p><h2>Limbo虛擬機設定與核心參數調整</h2><p>在開始佈署時，作者建議在手機內部儲存建立「臨時文件」資料夾以存放各項檔案，並依序安裝Limbo ARM軟體與導入<strong>UEFI固件</strong>。隨後建立新虛擬機，將架構指定為vert並選擇<strong>Cortex-A57</strong>處理器型號，核心數與記憶體則依設備硬體配置調整，同時勾選<strong>MTTCG加速</strong>。硬碟部分依序掛載預裝好系統的硬碟A與空白數據盤硬碟B，並將引導設為硬碟啟動；為了解決虛擬機無法直接取得實體IP的問題，作者特別示範將虛擬機的<strong>5666與5667端口轉發</strong>至手機本機，確保局域網設備能夠順利訪問管理頁面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_289.jpg" /></p><h2>開機連線、效能實測與背景運行限制</h2><p>虛擬機啟動後，需等待數分鐘讓系統完成儲存池校驗與開機程序，隨後在同局域網的電腦瀏覽器輸入<strong>手機IP加上5666端口</strong>即可登入飛牛後台。作者實測基礎檔案傳輸速度約為每秒15MB，輕量同步功能尚可應付，但由於採用<strong>純軟體模擬</strong>且缺乏KVM硬體虛擬化加速，整體效能較為低落，難以負荷Docker或影音相簿等高負載應用。此外，不同品牌手機的<strong>後台省電與殺進程機制</strong>可能導致螢幕鎖定後斷網，因此該方案實用性有限，更適合作為老舊設備技術折騰與功能嘗鮮的趣味體驗。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><p>本期编号：EP321</p><p></p><p>莫老师的附件表（快捷键Crtl+F搜索视频标题）：</p><p></p><p>中国：在下莫老师.com</p><p>海外：zxmls.lol</p><p></p><p>----------------------------------------------------</p><p></p><p>You can click here to download the files</p><p></p><p>在下莫老师.com</p><p>zxmls.lol</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/50aZPKYlVE8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何完全<strong>免Root、免刷機</strong>，直接在安卓手機或平板上體驗飛牛FnOS ARM版系統。</li><li>詳細掌握<strong>Limbo虛擬機</strong>的完整參數配置，包含CPU、記憶體、硬碟掛載以及通訊埠轉發技巧。</li><li>真實評測純軟體模擬下的NAS效能表現與後台保活限制，評估老舊設備廢物利用的實際可行性。</li></ul><hr /><h1>摘要</h1><h2>免刷機！在安卓設備實現飛牛FnOS初體驗</h2><p>作者展示了如何在不需取得Root權限也不需刷機的情況下，僅憑一台安卓設備就能運行<strong>飛牛FnOS ARM版</strong>。市面上多數教學是透過x86模擬器運作，而作者採用<strong>Limbo ARM虛擬機</strong>運行原生ARM版系統，成為全網少見的嘗試。作者為觀眾準備了預先安裝完成的<strong>虛擬磁碟映像檔</strong>與UEFI引導固件，讓使用者免去從ISO映像檔從頭安裝的繁瑣流程，只需準備手機或平板、Limbo ARM應用程式及相關檔案即可開始操作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_99.jpg" /></p><h2>Limbo虛擬機設定與核心參數調整</h2><p>在開始佈署時，作者建議在手機內部儲存建立「臨時文件」資料夾以存放各項檔案，並依序安裝Limbo ARM軟體與導入<strong>UEFI固件</strong>。隨後建立新虛擬機，將架構指定為vert並選擇<strong>Cortex-A57</strong>處理器型號，核心數與記憶體則依設備硬體配置調整，同時勾選<strong>MTTCG加速</strong>。硬碟部分依序掛載預裝好系統的硬碟A與空白數據盤硬碟B，並將引導設為硬碟啟動；為了解決虛擬機無法直接取得實體IP的問題，作者特別示範將虛擬機的<strong>5666與5667端口轉發</strong>至手機本機，確保局域網設備能夠順利訪問管理頁面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202502/file-cache/50aZPKYlVE8_289.jpg" /></p><h2>開機連線、效能實測與背景運行限制</h2><p>虛擬機啟動後，需等待數分鐘讓系統完成儲存池校驗與開機程序，隨後在同局域網的電腦瀏覽器輸入<strong>手機IP加上5666端口</strong>即可登入飛牛後台。作者實測基礎檔案傳輸速度約為每秒15MB，輕量同步功能尚可應付，但由於採用<strong>純軟體模擬</strong>且缺乏KVM硬體虛擬化加速，整體效能較為低落，難以負荷Docker或影音相簿等高負載應用。此外，不同品牌手機的<strong>後台省電與殺進程機制</strong>可能導致螢幕鎖定後斷網，因此該方案實用性有限，更適合作為老舊設備技術折騰與功能嘗鮮的趣味體驗。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=50aZPKYlVE8">https://www.youtube.com/watch?v=50aZPKYlVE8</a></p><p>本期编号：EP321</p><p></p><p>莫老师的附件表（快捷键Crtl+F搜索视频标题）：</p><p></p><p>中国：在下莫老师.com</p><p>海外：zxmls.lol</p><p></p><p>----------------------------------------------------</p><p></p><p>You can click here to download the files</p><p></p><p>在下莫老师.com</p><p>zxmls.lol</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/50aZPKYlVE8/hqdefault.jpg"/>
+      <pubDate>2026-09-24T09:00:32.000Z</pubDate>
+    </item><item>
       <title><![CDATA[把NAS交给AI管靠谱吗？铁威马TOS7 AI NAS系统体验测]]></title>
       <link>https://www.youtube.com/watch?v=v6u02ThsAsw</link>
       <itunes:title><![CDATA[把NAS交给AI管靠谱吗？铁威马TOS7 AI NAS系统体验测]]></itunes:title>
